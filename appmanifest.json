@@ -1,11 +1,11 @@
 {
-	"name": "Fruit Crush",
-	"short_name": "Fruit Crush",
-	"description": "1",
+	"name": "Cave",
+	"short_name": "Cave",
+	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
-	"background_color": "#ffffff",
+	"background_color": "#000000",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
